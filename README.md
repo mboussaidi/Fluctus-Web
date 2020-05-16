@@ -16,8 +16,11 @@ L'idée consiste à mettre en place une application WEB et Mobile qui fait le li
   - Autres...
 
 # Auteurs et contributeurs
-  - Amine BOUSSAIDI
+
   - Assia MOUSSI
   - Khaled SEBTI
+  - Hanane DARI
+  - Djamel DERRAR
+  - Amine BOUSSAIDI
 
 ## #Fluctus #Wave #Moudja
